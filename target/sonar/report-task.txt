@@ -1,0 +1,6 @@
+projectKey=testingmavenbasic
+serverUrl=http://localhost:9000
+serverVersion=8.7.0.41497
+dashboardUrl=http://localhost:9000/dashboard?id=testingmavenbasic
+ceTaskId=AXgc_119q_iM_I9vPzVN
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXgc_119q_iM_I9vPzVN
