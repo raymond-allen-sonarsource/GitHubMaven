@@ -4,6 +4,14 @@ public class HelloWorld {
 
   void sayHello() {
     System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
+    System.out.println("Hello World!");
   }
 
   void notCovered() {
