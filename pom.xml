@@ -13,7 +13,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
-    <sonar.projectKey>testingmavenbasic</sonar.projectKey>
+     <sonar.projectKey>raymond-allen-sonarsource_GitHubMaven</sonar.projectKey>
+
   </properties>
 
   <dependencies>
