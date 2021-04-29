@@ -5,7 +5,7 @@ node {
   stage('SonarQube Analysis') {
     def mvn = tool 'Maven';
     withSonarQubeEnv() {
-      bat "${mvn}\bin\mvn sonar:sonar"
+      cmd "${mvn}\bin\mvn sonar:sonar"
     }
   }
 }
