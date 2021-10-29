@@ -1,3 +1,5 @@
+[![Quality Gate Status](http://http://rayray.ngrok.io/api/project_badges/measure?project=raymond-allen-sonarsource_GitHubMaven&metric=alert_status)](http://rayray.ngrok.io/dashboard?id=raymond-allen-sonarsource_GitHubMaven)
+
 # Basic Maven Example
 
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
