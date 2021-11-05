@@ -1,4 +1,4 @@
-[![Quality Gate Status](http://http://rayray.ngrok.io/api/project_badges/measure?project=raymond-allen-sonarsource_GitHubMaven&metric=alert_status)](http://rayray.ngrok.io/dashboard?id=raymond-allen-sonarsource_GitHubMaven)
+[![Quality Gate Status](https://rayray.ngrok.io/api/project_badges/measure?project=raymond-allen-sonarsource_GitHubMaven&metric=alert_status)](https://rayray.ngrok.io/dashboard?id=raymond-allen-sonarsource_GitHubMaven)
 
 # Basic Maven Example
 
